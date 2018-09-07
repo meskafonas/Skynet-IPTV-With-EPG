@@ -17,7 +17,6 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-<channel site="tv24.lt" xmltv_id="Viasat Sport Baltic" site_id="viasat-sport-baltic" update="i">Viasat Sport Baltic</channel>
 <channel site="tv24.lt" xmltv_id="MTV Europe" site_id="mtv-europe" update="i">MTV Europe</channel>
 <channel site="tv24.lt" xmltv_id="MTV Hits" site_id="mtv-hits" update="i">MTV Hits</channel>
 <channel site="tv24.lt" xmltv_id="MTV Music" site_id="mtv-music" update="i">MTV Music</channel>

@@ -9,7 +9,7 @@
     <channel update="i" site="tvprograma.lt" site_id="tv1/9" xmltv_id="TV1">TV1</channel>
     <channel update="i" site="tvprograma.lt" site_id="lietuvos-ryto-tv/34" xmltv_id="Lietuvos ryto TV">Lietuvos ryto TV</channel>
     <channel update="i" site="tvprograma.lt" site_id="tv8/197" xmltv_id="TV8">TV8</channel>
-    <channel update="i" site="tvprograma.lt" site_id="viasat-sport-baltic/28" xmltv_id="Viasat Sport Baltic">Viasat Sport Baltic</channel>
+    <channel update="i" site="tvprograma.lt" site_id="viasat-sport-baltic" xmltv_id="Viasat Sport Baltic">Viasat Sport Baltic</channel>
     <channel update="i" site="tvprograma.lt" site_id="lrt-kultura/231" xmltv_id="LRT KULTŪRA">LRT KULTŪRA</channel>
     <channel update="i" site="tvprograma.lt" site_id="pbk/37" xmltv_id="PBK">PBK</channel>
     <channel update="i" site="tvprograma.lt" site_id="ren-lietuva/181" xmltv_id="REN Lietuva">REN Lietuva</channel>
